@@ -9,9 +9,9 @@
 
 ## Hobbit
 *Sports
-*Movie
-*Music
-*Manga
+-Movie
+-Music
+-Manga
 *PC
 
 ## Project in this course
