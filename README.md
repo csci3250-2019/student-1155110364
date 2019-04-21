@@ -8,11 +8,13 @@
 ![baidu](http://www.baidu.com/img/bdlogo.gif "百度logo")
 
 ## Hobbit
-*Sports
--Movie
--Music
--Manga
-*PC
+<ul>
+<li>Sports</li>
+<li>Movie</li>
+<li>Music</li>
+<li>Manga</li>
+<li>PC</li>
+</ul>
 
 ## Project in this course
 -[X] milestone#1
