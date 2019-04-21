@@ -1,8 +1,8 @@
 # student-1155110364
 #### Hello Everyone, I am Tony!!!<br>
 
-## _Basic Information_
-**)_Name_:   Tony Kat<br>**
+## Basic Information
+**_Name_:    Tony Kat<br>**
 **_College_: United College<br>**
 **_Major_:   Computer Engineering<br>**
 ![baidu](http://www.baidu.com/img/bdlogo.gif "百度logo")
