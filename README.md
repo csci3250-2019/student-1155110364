@@ -3,9 +3,9 @@
 
 
 ## Basic Information
-**_Name_:    Tony Kat<br>**
-**_College_: United College<br>**
-**_Major_:   Computer Engineering<br>**
+**_Name_:    `Tony Kat`<br>**
+**_College_: `United College`<br>**
+**_Major_:   `Computer Engineering`<br>**
 
 
 ## Hobbit
@@ -30,3 +30,6 @@ ENGG | 2430
 CSCI | 3250
 CSCI | 2100
 CSCI | 3251
+
+
+`
