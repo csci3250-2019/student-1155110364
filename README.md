@@ -23,3 +23,10 @@
 - [x] _milestone#2_
 - [ ] _milestone#3_
 
+## Course I like
+FACULTY | CODE
+---- | ---
+ENGG | 2430
+CSCI | 3250
+CSCI | 2100
+CSCI | 3251
