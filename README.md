@@ -3,9 +3,9 @@
 
 
 ## Basic Information
-**_Name_:    `Tony Kat`<br>**
+**_Name_:       `Tony Kat`<br>**
 **_College_: `United College`<br>**
-**_Major_:   `Computer Engineering`<br>**
+**_Major_:        `Computer Engineering`<br>**
 
 
 ## Hobbit
